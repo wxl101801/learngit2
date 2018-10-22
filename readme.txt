@@ -7,4 +7,5 @@ Creating a new branch is quick.
 Create a new branch again
 
 See you again£¡£¡
+Branch management strategy!
 
